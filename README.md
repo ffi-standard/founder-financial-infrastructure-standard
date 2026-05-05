@@ -1,6 +1,6 @@
 # Founder Financial Infrastructure Standard
 
-The **first open framework** defining what financial infrastructure every growth‑focused company must maintain — from first model to final exit.
+The **first open framework** defining what financial infrastructure every growth‑focused company must maintain from first model to final exit.
 
 - **Seven Books** covering financial architecture, performance modeling, capital structure, valuation, investor readiness, and strategic planning.
 - **Three compliance levels** (Operational Foundation, Investor Readiness, Institutional Standard).
