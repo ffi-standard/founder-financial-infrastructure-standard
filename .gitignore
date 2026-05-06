@@ -1,19 +1,9 @@
-# Operating system files
 .DS_Store
 Thumbs.db
 
-# Temporary text files
 *.tmp
 *.bak
 *~
 
-# Private notes (if you ever keep a local text file)
 _private/
 notes.txt
-
-# If you later add the website code, you would add:
-# node_modules/
-# _site/
-# .env
-# studio/dist/
-# package-lock.json
