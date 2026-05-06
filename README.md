@@ -11,10 +11,10 @@ The **first open framework** defining what financial infrastructure every growth
 
 ## Quick Links
 
-- **Official website:** [founderfinancialinfrastructure.com](https://founderfinancialinfrastructure.com)
-- **Download the complete Standard (PDF):** [Beta v0.5](https://founderfinancialinfrastructure.com/assets/ffi-standard-complete-beta-v05.pdf)
-- **Glossary:** [founderfinancialinfrastructure.com/glossary/](https://founderfinancialinfrastructure.com/glossary/)
-- **Citation guide:** [founderfinancialinfrastructure.com/cite/](https://founderfinancialinfrastructure.com/cite/)
+- **Official website:** [ffistandard.org]((https://ffistandard.org/))
+- **Download the complete Standard (PDF):** [Beta v0.5](https://ffistandard.org/assets/ffi-standard-complete-beta-v05.pdf)
+- **Glossary:** [ffistandard.org/glossary/](https://ffistandard.org/glossary/)
+- **Citation guide:** [ffistandard.org/cite/](https://ffistandard.org/cite/)
 
 ---
 
