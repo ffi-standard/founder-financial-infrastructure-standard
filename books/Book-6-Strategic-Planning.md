@@ -32,7 +32,7 @@ April 2026
 
 
 
-https://founderfinancialinfrastructure.com/
+https://ffistandard.org/
 
 © The Oakworth Group, 2026.
 Published under Creative Commons Attribution 4.0 International (CC BY 4.0).
@@ -475,5 +475,5 @@ The complete Standard now covers: Book 0 (Foundations and Definitions); Book 1 (
 
 Version 1.0 will incorporate practitioner feedback received during the beta review period across all seven Books. The primary areas in which v1.0 will expand on the beta are: quantitative benchmarks for AI-Native companies, for which sufficient market data was not available at the time of beta preparation; regional benchmark appendices for the United Kingdom, United States, European Union, Middle East, and other markets; and the independent advisory panel governance structure for major version amendments from v2.0 onward.
 
-Feedback on any section of the Standard may be submitted to standard@founderfinancialinfrastructure.com with reference to the specific Book, section, and criterion number. All feedback received before the close of the beta review period will be considered in the preparation of v1.0.
+Feedback on any section of the Standard may be submitted to standard@ffistandard.org with reference to the specific Book, section, and criterion number. All feedback received before the close of the beta review period will be considered in the preparation of v1.0.
 
