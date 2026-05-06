@@ -30,7 +30,7 @@ April 2026
 
 
 
-https://founderfinancialinfrastructure.com/
+https://ffistandard.org/
 
 © The Oakworth Group, 2026.
 Published under Creative Commons Attribution 4.0 International (CC BY 4.0).
@@ -620,4 +620,4 @@ Scale Stage: Level 3
 
 Stage definitions are as established in Book 0, Section 0.5. Compliance level expectations reflect the Maturity Model established in Book 0, Section 0.8.
 
-Feedback on Book 2 may be submitted to standard@founderfinancialinfrastructure.com with reference to the specific section and criterion number. Feedback received before the close of the beta review period will be considered in the preparation of v1.0.
+Feedback on Book 2 may be submitted to standard@ffistandard.org with reference to the specific section and criterion number. Feedback received before the close of the beta review period will be considered in the preparation of v1.0.
