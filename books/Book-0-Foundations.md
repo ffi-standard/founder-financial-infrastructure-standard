@@ -30,7 +30,9 @@ April 2026
 
 
 
-(https://founderfinancialinfrastructure.com/)
+
+https://ffistandard.org/
+
 © The Oakworth Group, 2026.
 Published under Creative Commons Attribution 4.0 International (CC BY 4.0).
 This Standard may be freely used, cited, adapted, and distributed with attribution.
@@ -48,7 +50,7 @@ The Standard applies to founders using it to assess and build their company's fi
 
 This volume, Beta v0.5, covers Book 0 and Book 1. Book 0 establishes the definitions, principles, taxonomies, and compliance framework that govern all seven Books. Book 1 establishes the standards for financial architecture. The remaining five Books, covering performance modeling, capital structure, valuation, investor readiness, and strategic financial planning, will be published in subsequent volumes. The complete Standard will be designated v1.0.
 
-This volume is published in beta status for practitioner review. Feedback from founders, investors, advisors, and institutions is sought before v1.0 publication. Feedback may be submitted to standard@founderfinancialinfrastructure.com, with reference to the specific section under consideration.
+This volume is published in beta status for practitioner review. Feedback from founders, investors, advisors, and institutions is sought before v1.0 publication. Feedback may be submitted to standard@ffistandard.org, with reference to the specific section under consideration.
 
                                                                               
 ABOUT THIS STANDARD                                                                             
@@ -72,11 +74,11 @@ Each Book from Book 1 onward contains compliance criteria at Level 1, Level 2, a
 A company's overall FFI compliance level is determined by the lowest compliance level achieved across all assessed domains. A company that achieves Level 3 in five domains and Level 1 in one domain has an overall FFI compliance level of Level 1. Partial compliance does not constitute an overall compliance level. The application of this rule is explained in full in Section 0.7.
 
 This Standard may be cited in external documents using the following format:  
-Founder Financial Infrastructure Standard, Beta v0.5, Book [number], Section [number].  www.founderfinancialinfrastructure.com. 2026.
+Founder Financial Infrastructure Standard, Beta v0.5, Book [number], Section [number].  www.ffistandard.org. 2026.
 
-This volume is Beta v0.5, published for practitioner review prior to the publication of v1.0. Feedback is invited at standard@.founderfinancialinfrastructure.com.
+This volume is Beta v0.5, published for practitioner review prior to the publication of v1.0. Feedback is invited at standard@.ffistandard.org.
 
-A self-assessment instrument for use with this Standard is available at www.founderfinancialinfrastructure.com.
+A self-assessment instrument for use with this Standard is available at www.ffistandard.org.
 
 An index to the complete Standard will be published with v1.0.
  
@@ -109,7 +111,7 @@ Minor versions (e.g., v1.1, v1.2) update benchmarks, add terms to the Glossary, 
 
 Major versions (e.g., v2.0) make structural changes to the Standard, adding Books, revising foundational principles, or introducing new compliance levels. From v2.0 onward, major versions are subject to review by an independent advisory panel before publication. Major versions are published no more than once every two years. The advisory panel's composition and governance will be published with the v2.0 release.
 
-Every version publishes a change log. The change log states what changed, which section is affected, and the effective date of the change. Prior versions remain available at  www.founderfinancialinfrastructure.com.
+Every version publishes a change log. The change log states what changed, which section is affected, and the effective date of the change. Prior versions remain available at  www.ffistandard.org.
 
 An assessment completed against a specific version of the Standard remains valid at that version. A company assessed at Level 2 under v1.0 retains that assessment unless the company's financial infrastructure changes materially. Version upgrades do not retroactively invalidate assessments made under prior versions.
 
@@ -352,7 +354,7 @@ Investor Readiness	—	—	—	L2**	L3
 Strategic Planning	—	—	—	L1	L2
 
 
-Feedback on Book 0 may be submitted to standard@founderfinancialinfrastructure.com with reference to the specific section. Feedback received before the close of the beta review period will be considered in the preparation of v1.0.
+Feedback on Book 0 may be submitted to standard@ffistandard.org with reference to the specific section. Feedback received before the close of the beta review period will be considered in the preparation of v1.0.
 
 FOOTNOTES TO THE MATURITY MATRIX
 
